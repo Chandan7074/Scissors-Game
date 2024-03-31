@@ -6,4 +6,4 @@
 - CSS
 - JavaScript
 
-To see the Live Game, go to: <a href="https://chandan7074.github.io/Scissors-Game/" target="_blank">Rock Paper Scissors</a>
+To see the Live Game, go to: <a href="https://chandan7074.github.io/Scissors-Game/" target="_blank">Rock Paper Scissors Game</a>
